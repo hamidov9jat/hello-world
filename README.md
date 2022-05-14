@@ -2,4 +2,4 @@
 Getting started with github
 
 # About Me
-Eager to learn code, verison control and computer science
+Eager to learn code, verison_control and computer science
